@@ -1,0 +1,1 @@
+C:\Programmproject\Tutorial-Alex\3 lab\Alexlab3Spotify\Layout_Spotify_Raw\BasicGrid\BasicGrid.csproj;x64
